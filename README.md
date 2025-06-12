@@ -1,2 +1,2 @@
 # homeverse
-Real estate website using Html CSS JavaScript 
+Real estate website
